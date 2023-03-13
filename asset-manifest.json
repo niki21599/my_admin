@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my_admin/static/css/main.f1940cfe.css",
+    "main.js": "/my_admin/static/js/main.42a50bba.js",
+    "index.html": "/my_admin/index.html",
+    "main.f1940cfe.css.map": "/my_admin/static/css/main.f1940cfe.css.map",
+    "main.42a50bba.js.map": "/my_admin/static/js/main.42a50bba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1940cfe.css",
+    "static/js/main.42a50bba.js"
+  ]
+}
